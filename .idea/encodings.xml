@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/rpc-common/src/main/java/com/sheledon/common/netty/codec/RpcMessageDecoder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-common/src/main/java/com/sheledon/common/netty/codec/RpcMessageEncoder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-common/src/main/java/com/sheledon/common/netty/constants/RpcConstant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-common/src/main/java/com/sheledon/common/netty/constants/RpcMessageType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-common/src/main/java/com/sheledon/common/netty/entity/RpcMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-common/src/main/java/com/sheledon/common/netty/entity/RpcRequest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-common/src/main/java/com/sheledon/common/netty/entity/RpcResponse.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-common/src/main/java/com/sheledon/common/netty/serialize/protobuf/ProtostuffSerializer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-framework/src/main/java/com/sheledon/transport/netty/client/ClientChannelInitializer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-framework/src/main/java/com/sheledon/transport/netty/client/RpcClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-framework/src/main/java/com/sheledon/transport/netty/client/handler/ClientHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-framework/src/main/java/com/sheledon/transport/netty/server/RpcServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-framework/src/main/java/com/sheledon/transport/netty/server/ServerChannelInitializer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-framework/src/main/java/com/sheledon/transport/netty/server/handler/ServerHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-framework/src/test/java/com/sheledon/test/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-monitor/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
